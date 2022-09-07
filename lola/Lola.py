@@ -4,7 +4,7 @@ import pywhatkit
 import datetime
 import wikipedia
 
-name = 'casa'
+name = 'lola'
 listener = sr.Recognizer()
 
 engine = pyttsx3.init()
